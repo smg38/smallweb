@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog>
+	<shop>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="УТ-00001943">Ottie</category>
+		</categories>
+		<offers>
+			<offer id="1005003668961186" group_id="1005003668961186">
+				<name>015983 Эмульсия с платиной Ottie Platinum Aura Vital Balancing Emulsion (120 мл)</name>
+				<description>Стресс бывает разным.
+Недосып, напряженная работа или учеба, а если еще добавить неправильное питание и другие неприятные факторы, мы получаем негативное влияние на организм в целом и на кожу лица в частности. Если Вы замечаете, что лицо потускнело, кожа местами стала сухой и шелушится – это результат избытка активного кислорода в тканях. Разрушение клеточной мембраны эпидермиса и дермы при его окислении и приводит к преждевременному старению.
+Обеспечить антистресс-поддержку Вашему лицу поможет эмульсия с платиной Platinum Aura Vital Balancing Emulsion.
+Платина – это мощный антиоксидант.
+Металл нейтрализует свободные радикалы и минимизирует воздействие окружающей среды на кожу.
+Быстро регенерирует кожу.
+Укрепляет сосуды и стимулирует микроциркуляцию.
+Входящие в состав эмульсии экстракты черной икры, сливы какаду и гиалуроновая кислота помогут решить такие несовершенства кожи, как акне, неприятный жирный блеск, шелушения, обезвоженность.</description>
+				<vendor>Ottie</vendor>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="Артикул">015983</param>
+				<param name="ВариантОформленияПродажи">Реализация товаров и услуг</param>
+				<param name="ВесЕдиницаИзмерения"/>
+				<param name="ВесЗнаменатель">0</param>
+				<param name="ВесИспользовать">Нет</param>
+				<param name="ВесМожноУказыватьВДокументах">Нет</param>
+				<param name="ВесЧислитель">0</param>
+				<param name="ВидНоменклатуры">Косметика "Для лица"</param>
+				<param name="ДлинаЕдиницаИзмерения"/>
+				<param name="ДлинаЗнаменатель">0</param>
+				<param name="ДлинаИспользовать">Нет</param>
+				<param name="ДлинаЧислитель">0</param>
+				<param name="ЕдиницаИзмерения">шт</param>
+				<param name="ИспользованиеХарактеристик">Не используются</param>
+				<param name="Качество"/>
+				<param name="КиЗГИСМ">Нет</param>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="КиЗГИСМВид"/>
+				<param name="КиЗГИСМРазмер"/>
+				<param name="КиЗГИСМСпособВыпускаВОборот"/>
+				<param name="КодДляПоиска">1360</param>
+				<param name="КодОКВЭД"/>
+				<param name="КодОКВЭД2"/>
+				<param name="КодОКП"/>
+				<param name="КодОКПД2"/>
+				<param name="КодТНВЭД"/>
+				<param name="НаименованиеВидаНоменклатурнойКлассификации"/>
+				<param name="ОбъемЕдиницаИзмерения"/>
+				<param name="ОбъемЗнаменатель">0</param>
+				<param name="ОбъемЧислитель">0</param>
+				<param name="ПодакцизныйТовар">Нет</param>
+				<param name="ПродукцияМаркируемаяДляГИСМ">Нет</param>
+				<param name="СкладскаяГруппа"/>
+				<param name="СрокГодности">0</param>
+				<param name="СтавкаНДС">Без НДС</param>
+				<param name="ТипНоменклатуры">Товар</param>
+				<param name="ТоварнаяКатегория"/>
+				<param name="ЦеноваяГруппа"/>
+				<price>1900</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>УТ-00001943</categoryId>
+				<picture>https://ae01.alicdn.com/kf/H2f2f32bb9f8b459e9d482bf1c24c2184J.jpg</picture>
+				<param name="Производитель (Справочник &quot;Номенклатура&quot; (Общие))">КОРЕЯ, РЕСПУБЛИКА</param>
+				<param name="Бренд (Справочник &quot;Номенклатура&quot; (Общие))">Ottie</param>
+				<param name="Категория (Справочник &quot;Номенклатура&quot; (Общие))">Крем/эмульсия</param>
+				<param name="Рекомендации (Справочник &quot;Номенклатура&quot; (Общие))">4c6e71cc-5ac1-11e9-179b-9cdc71af0f48&amp;2405ec86-46ec-11e8-7f94-9cdc71af0f48&amp;bef55d9c-8a6c-4602-8234-d713fb445a23&amp;145bbd9a-d84c-406f-8462-f8d41b314793&amp;d1810b93-b2ce-4c5d-84a6-2f8768018ccb&amp;bede97b7-2fa2-4b98-84df-ed150f301c06&amp;2ac1156c-0f0f-4d95-8594-b5700fa8d9b2&amp;f00db4dc-9a3f-4856-8707-6e077a6caefc&amp;61c09219-902c-4105-879d-0899f4c1f143&amp;759d1915-ae0c-11e9-8ebc-9cdc71af0f49&amp;40c592b9-4a93-4290-90c2-a87f8b228ce1&amp;c7a7cc2b-55d1-4195-9c8e-a9cb5e39bb7c&amp;192791b8-1fcf-11e9-a086-9cdc71af0f48&amp;09efd75c-11e2-4fab-a5c4-5a6d31884145&amp;8c1f11d2-6bc2-4f13-a71d-05d9e668b2f0&amp;c264e227-2c53-421b-ae8f-787f5153a48e&amp;e8858766-fbb4-4a96-b08a-c8d3c226dafb&amp;30b29468-5f7c-43e6-b1e8-148c8f329f68&amp;ce85a6ce-dc67-40a6-b2b1-cd1e496affeb&amp;ceee73c4-bb7c-4ff5-b894-bfbb10d6e285&amp;2908a554-6dad-45de-b97c-0226ca8eda18&amp;0ba21d00-8dbc-11e9-b99d-9cdc71af0f48&amp;ea6e5399-e5da-4c44-b9c1-c3b01f26e281&amp;a6884d62-78bc-4ce9-ba6a-805daebd7e9b&amp;c4bcc28a-8350-11e8-bb87-9cdc71af0f48&amp;ab488397-a7a6-40da-bd7a-0e193a519d5f&amp;34ab939e-f31a-11e8-ce8b-9cdc71af0f48</param>
+				<param name="Поле поиска (Справочник &quot;Номенклатура&quot; (Общие))">Ottie,OTTIE,Отти,Оттие</param>
+				<param name="Ид товара (Справочник &quot;Номенклатура&quot; (Общие))">1005003668961186</param>
+				<param name="Принципал"/>
+				<param name="Контрагент"/>
+				<param name="КиЗГИСМGTIN"/>
+				<param name="ВидНоменклатуры"/>
+				<weight>1</weight>
+				<length>1</length>
+				<width>1</width>
+				<height>1</height>
+				<quantity>10</quantity>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
