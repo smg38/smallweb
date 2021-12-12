@@ -11,6 +11,7 @@ build_args="--no-cache"
 build_args=""
 
 printf "${COLOR}Build container${NC}\n"
+pause
 docker build --file=Dockerfile ${build_args} --tag=${tag} .
 
 printf "${COLOR}Start container${NC}\n"
@@ -20,3 +21,4 @@ docker run -p ${PORT}:${PORT} --name my-${tag} ${tag}
 
 printf "${COLOR}Delete container${NC}\n"
 docker rm my-${tag}
+pause
